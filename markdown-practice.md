@@ -1,6 +1,7 @@
 ## My learning goals
 ### This semester
-https://www.peacemwende.io
+[Profile page](https://www.peacemwende.io)
+
 
 ### Lists
 - web development 
